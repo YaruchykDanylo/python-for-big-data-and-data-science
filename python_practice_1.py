@@ -1,0 +1,1 @@
+print("Danylo, AI-2024")
